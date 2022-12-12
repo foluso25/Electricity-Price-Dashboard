@@ -171,7 +171,7 @@ def table_title(input_sector):
 
 
 if __name__ == '__main__':
-    app.run_server(host='localhost',port=8006)
+    app.run_server(debug=True)
 
 #app.run_server(host='localhost',port=8006)
 
