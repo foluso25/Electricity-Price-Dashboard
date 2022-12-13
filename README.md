@@ -1,6 +1,6 @@
 # MA705 Final Project
 
-The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities.herokuapp.com).
+The final dashboard is deployed on Heroku [here](https://electricity-dash.herokuapp.com/).
 
 ## Dashboard Description
 The electricity data used in this dashboard is from the U.S Energy 
