@@ -27,7 +27,7 @@ def generate_table(dataframe, max_rows=10):
 app = dash.Dash(__name__, external_stylesheets=stylesheet)
 server = app.server
 
-df = pd.read_csv('mo_final_project')
+df = pd.read_csv('mo_final_project.csv')
 
 app.layout = html.Div([
                html.H1('Electricity Price Dashboard',style={'color':'#2a3f5f','font-weight': 'bold','text-align': 'center'}),
