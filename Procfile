@@ -1,1 +1,1 @@
-web: gunicorn energy:server
+web: gunicorn energy: server
